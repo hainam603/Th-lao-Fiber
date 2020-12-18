@@ -1,0 +1,147 @@
+D:\Projects\example\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Projects\example\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Projects\example\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Projects\example\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.deps.json
+D:\Projects\example\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.json
+D:\Projects\example\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.dev.json
+D:\Projects\example\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.dll
+D:\Projects\example\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.pdb
+D:\Projects\example\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csprojAssemblyReference.cache
+D:\Projects\example\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfoInputs.cache
+D:\Projects\example\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfo.cs
+D:\Projects\example\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CoreCompileInputs.cache
+D:\Projects\example\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cache
+D:\Projects\example\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cs
+D:\Projects\example\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorTargetAssemblyInfo.cache
+D:\Projects\example\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.dll
+D:\Projects\example\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.pdb
+D:\Projects\example\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.genruntimeconfig.cache
+D:\Projects\example\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.dll
+D:\Projects\example\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.pdb
+D:\Projects\example\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CopyComplete
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.deps.json
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.json
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.dev.json
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.dll
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.pdb
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.dll
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.pdb
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csprojAssemblyReference.cache
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfoInputs.cache
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfo.cs
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CoreCompileInputs.cache
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cache
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cs
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorTargetAssemblyInfo.cache
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CopyComplete
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.dll
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.pdb
+E:\Github\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.genruntimeconfig.cache
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.deps.json
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.json
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.dev.json
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.dll
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.pdb
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.dll
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.pdb
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csprojAssemblyReference.cache
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfoInputs.cache
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfo.cs
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CoreCompileInputs.cache
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cache
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cs
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorTargetAssemblyInfo.cache
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CopyComplete
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.dll
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.pdb
+D:\Projects\QLQ_DHSXKD\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.genruntimeconfig.cache
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.deps.json
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.json
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.dev.json
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.dll
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.pdb
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.dll
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.pdb
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csprojAssemblyReference.cache
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfoInputs.cache
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfo.cs
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CoreCompileInputs.cache
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cache
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cs
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorTargetAssemblyInfo.cache
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CopyComplete
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.dll
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.pdb
+D:\Projects\Project_QLQ_DHXSKD\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.genruntimeconfig.cache
+D:\Projects\Fiber2\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Projects\Fiber2\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Projects\Fiber2\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Projects\Fiber2\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.deps.json
+D:\Projects\Fiber2\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.json
+D:\Projects\Fiber2\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.dev.json
+D:\Projects\Fiber2\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.dll
+D:\Projects\Fiber2\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.pdb
+D:\Projects\Fiber2\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.dll
+D:\Projects\Fiber2\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.pdb
+D:\Projects\Fiber2\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csprojAssemblyReference.cache
+D:\Projects\Fiber2\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfoInputs.cache
+D:\Projects\Fiber2\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfo.cs
+D:\Projects\Fiber2\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CoreCompileInputs.cache
+D:\Projects\Fiber2\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cache
+D:\Projects\Fiber2\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cs
+D:\Projects\Fiber2\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorTargetAssemblyInfo.cache
+D:\Projects\Fiber2\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CopyComplete
+D:\Projects\Fiber2\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.dll
+D:\Projects\Fiber2\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.pdb
+D:\Projects\Fiber2\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.genruntimeconfig.cache
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.deps.json
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.json
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.dev.json
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.dll
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.pdb
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.dll
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.pdb
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csprojAssemblyReference.cache
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfoInputs.cache
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfo.cs
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CoreCompileInputs.cache
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cache
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cs
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorTargetAssemblyInfo.cache
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CopyComplete
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.dll
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.pdb
+D:\Projects\ThulaoFiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.genruntimeconfig.cache
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.deps.json
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.json
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.dev.json
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.dll
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.pdb
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.dll
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.pdb
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csprojAssemblyReference.cache
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfoInputs.cache
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfo.cs
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CoreCompileInputs.cache
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cache
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cs
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorTargetAssemblyInfo.cache
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CopyComplete
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.dll
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.pdb
+D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.genruntimeconfig.cache

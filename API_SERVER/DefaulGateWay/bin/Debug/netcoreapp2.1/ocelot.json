@@ -1,0 +1,136 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/auth/{catchAll}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "UpstreamPathTemplate": "/api/auth/{catchAll}"
+    },
+    {
+        "DownstreamPathTemplate": "/api/new/{catchAll}",
+        "DownstreamScheme": "http",
+        "DownstreamHostAndPorts": [
+            {
+                "Host": "localhost",
+                "Port": 5002
+            }
+        ],
+        "UpstreamPathTemplate": "/api/new/{catchAll}",
+        "AuthenticationOptions": {
+            "AuthenticationProviderKey": "TestKey",
+            "AllowedScopes": []
+        },
+        "RateLimitOptions": {
+            "ClientWhitelist": [],
+            "EnableRateLimiting": true,
+            "Period": "1s",
+            "PeriodTimespan": 10,
+            "Limit": 10
+        },
+        "QoSOptions": {
+            "ExceptionsAllowedBeforeBreaking": 1,
+            "DurationOfBreak": 7200001,
+            "TimeoutValue": 7200000
+
+        }
+    },
+    //{
+    //  "DownstreamPathTemplate": "/api/salary/{catchAll}",
+    //  "DownstreamScheme": "http",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 4003
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/api/salary/{catchAll}",
+    //  //"LoadBalancerOptions": { "Type": "RoundRobin" },
+    //  "UpstreamHttpMethod": [ "Options", "Get", "Post", "Put", "Delete" ],
+    //  "DownstreamHeaderTransform": {
+    //    "Location": "{DownstreamBaseUrl}, {BaseUrl}"
+    //  },
+    //  "AuthenticationOptions": {
+    //    "AuthenticationProviderKey": "TestKey",
+    //    "AllowedScopes": []
+    //  },
+    //  "QoSOptions": {
+    //    "ExceptionsAllowedBeforeBreaking": 1,
+    //    "DurationOfBreak": 7200001,
+    //    "TimeoutValue": 7200000
+
+    //  },
+    //  "RateLimitOptions": {
+    //    "ClientWhitelist": [],
+    //    "EnableRateLimiting": true,
+    //    "Period": "10s",
+    //    "PeriodTimespan": 1,
+    //    "Limit": 10
+    //  }
+    //},
+    //{
+    //  "DownstreamPathTemplate": "/api/user/{catchAll}",
+    //  "DownstreamScheme": "http",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 4004
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/api/user/{catchAll}",
+    //  "UpstreamHttpMethod": [ "Options", "Get", "Post", "Put", "Delete" ],
+    //  "AuthenticationOptions": {
+    //    "AuthenticationProviderKey": "TestKey",
+    //    "AllowedScopes": []
+    //  },
+    //  "QoSOptions": {
+    //    "ExceptionsAllowedBeforeBreaking": 1,
+    //    "DurationOfBreak": 7200001,
+    //    "TimeoutValue": 7200000
+    //  },
+    //  "RateLimitOptions": {
+    //    "ClientWhitelist": [],
+    //    "EnableRateLimiting": true,
+    //    "Period": "10s",
+    //    "PeriodTimespan": 1,
+    //    "Limit": 10
+    //  }
+    //},
+    //{
+    //  "DownstreamPathTemplate": "/api/permission/{catchAll}",
+    //  "DownstreamScheme": "http",
+    //  "DownstreamHostAndPorts": [
+    //    {
+    //      "Host": "localhost",
+    //      "Port": 4006
+    //    }
+    //  ],
+    //  "UpstreamPathTemplate": "/api/permission/{catchAll}",
+    //  "UpstreamHttpMethod": [ "Options", "Get", "Post", "Put", "Delete" ],
+    //  "AuthenticationOptions": {
+    //    "AuthenticationProviderKey": "TestKey",
+    //    "AllowedScopes": []
+    //  },
+    //  "QoSOptions": {
+    //    "ExceptionsAllowedBeforeBreaking": 1,
+    //    "DurationOfBreak": 7200001,
+    //    "TimeoutValue": 7200000
+    //  },
+    //  "RateLimitOptions": {
+    //    "ClientWhitelist": [],
+    //    "EnableRateLimiting": true,
+    //    "Period": "10s",
+    //    "PeriodTimespan": 1,
+    //    "Limit": 10
+    //  }
+    //}
+  ],
+  "GlobalConfiguration": {
+    "RequestIdKey": "OcRequestId",
+    "AdministrationPath": "/administration"
+  }
+}
