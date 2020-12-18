@@ -12,7 +12,7 @@ namespace Fiber.Server.New
         dynamic Delete_List_New(string month);
         dynamic Get_List_New(string month);
         dynamic Get_List_News(int year);
-        dynamic GetID(NewModel New);
+        dynamic GetID(string ma_tb);
         dynamic Insert(NewModel New);
         dynamic Update(NewModel New);
         dynamic Delete(NewModel New);

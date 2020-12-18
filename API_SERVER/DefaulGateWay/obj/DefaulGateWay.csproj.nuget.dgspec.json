@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Thù lao Fiber\\API_SERVER\\DefaulGateWay\\DefaulGateWay.csproj": {}
+    "C:\\Users\\luohoang\\Documents\\Project\\Th-lao-Fiber\\API_SERVER\\DefaulGateWay\\DefaulGateWay.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Thù lao Fiber\\API_SERVER\\DefaulGateWay\\DefaulGateWay.csproj": {
+    "C:\\Users\\luohoang\\Documents\\Project\\Th-lao-Fiber\\API_SERVER\\DefaulGateWay\\DefaulGateWay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Thù lao Fiber\\API_SERVER\\DefaulGateWay\\DefaulGateWay.csproj",
+        "projectUniqueName": "C:\\Users\\luohoang\\Documents\\Project\\Th-lao-Fiber\\API_SERVER\\DefaulGateWay\\DefaulGateWay.csproj",
         "projectName": "DefaulGateWay",
-        "projectPath": "D:\\Projects\\Thù lao Fiber\\API_SERVER\\DefaulGateWay\\DefaulGateWay.csproj",
-        "packagesPath": "C:\\Users\\HaiNam\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Thù lao Fiber\\API_SERVER\\DefaulGateWay\\obj\\",
+        "projectPath": "C:\\Users\\luohoang\\Documents\\Project\\Th-lao-Fiber\\API_SERVER\\DefaulGateWay\\DefaulGateWay.csproj",
+        "packagesPath": "C:\\Users\\luohoang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luohoang\\Documents\\Project\\Th-lao-Fiber\\API_SERVER\\DefaulGateWay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\HaiNam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luohoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\Projects\\Thù lao Fiber\\API_SERVER\\Model\\Model.csproj": {
-                "projectPath": "D:\\Projects\\Thù lao Fiber\\API_SERVER\\Model\\Model.csproj"
+              "C:\\Users\\luohoang\\Documents\\Project\\Th-lao-Fiber\\API_SERVER\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\luohoang\\Documents\\Project\\Th-lao-Fiber\\API_SERVER\\Model\\Model.csproj"
               }
             }
           }
@@ -81,24 +81,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\Thù lao Fiber\\API_SERVER\\Model\\Model.csproj": {
+    "C:\\Users\\luohoang\\Documents\\Project\\Th-lao-Fiber\\API_SERVER\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Thù lao Fiber\\API_SERVER\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\luohoang\\Documents\\Project\\Th-lao-Fiber\\API_SERVER\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "D:\\Projects\\Thù lao Fiber\\API_SERVER\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\HaiNam\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Thù lao Fiber\\API_SERVER\\Model\\obj\\",
+        "projectPath": "C:\\Users\\luohoang\\Documents\\Project\\Th-lao-Fiber\\API_SERVER\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\luohoang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luohoang\\Documents\\Project\\Th-lao-Fiber\\API_SERVER\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\HaiNam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luohoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -163,7 +163,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
