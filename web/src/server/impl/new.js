@@ -9,7 +9,13 @@ export default {
     },
     Insert_List_New(month,token){
         return repository.post(`${resource}/Insert_List_New?month=`+month,month,{ headers: {"Authorization" : `Bearer ${token}`} });
-    }
+    },
+    Get_Info_ByID(ma_tb, token) {
+        return repository.get(`${resource}/Get_Info_ByID?ma_tb=`+ma_tb,{ headers: {"Authorization" : `Bearer ${token}`} });
+    },
+    Insert(New, token) {
+        return repository.put(`${resource}/Insert`,New,{ headers: {"Authorization" : `Bearer ${token}`} });
+    },
 
    
    

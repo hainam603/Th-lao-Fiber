@@ -145,3 +145,24 @@ D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthSe
 D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.dll
 D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.pdb
 D:\Projects\Thù lao Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.genruntimeconfig.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.deps.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.dev.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.dll
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\AuthService.pdb
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csprojAssemblyReference.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfoInputs.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfo.cs
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CoreCompileInputs.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cs
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorTargetAssemblyInfo.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.csproj.CopyComplete
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.dll
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.pdb
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\AuthService\obj\Debug\netcoreapp2.1\AuthService.genruntimeconfig.cache

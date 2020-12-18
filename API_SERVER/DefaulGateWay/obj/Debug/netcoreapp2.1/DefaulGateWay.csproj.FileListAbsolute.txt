@@ -42,3 +42,25 @@ D:\Projects\Thù lao Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\Defa
 D:\Projects\Thù lao Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.dll
 D:\Projects\Thù lao Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.pdb
 D:\Projects\Thù lao Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.genruntimeconfig.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\bin\Debug\netcoreapp2.1\ocelot.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\bin\Debug\netcoreapp2.1\DefaulGateWay.deps.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\bin\Debug\netcoreapp2.1\DefaulGateWay.runtimeconfig.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\bin\Debug\netcoreapp2.1\DefaulGateWay.runtimeconfig.dev.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\bin\Debug\netcoreapp2.1\DefaulGateWay.dll
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\bin\Debug\netcoreapp2.1\DefaulGateWay.pdb
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.AssemblyInfoInputs.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.AssemblyInfo.cs
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.csproj.CoreCompileInputs.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.RazorAssemblyInfo.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.RazorAssemblyInfo.cs
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.RazorTargetAssemblyInfo.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.csproj.CopyComplete
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.dll
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.pdb
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.genruntimeconfig.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\DefaulGateWay\obj\Debug\netcoreapp2.1\DefaulGateWay.csprojAssemblyReference.cache

@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Fiber.Server.New;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Model.Model.New;
 
 namespace Fiber.Controllers
 {
@@ -42,6 +43,17 @@ namespace Fiber.Controllers
         public dynamic Delete_List_New(string month)
         {
             return _new.Delete_List_New(month);
+        }
+        [HttpGet("Get_Info_ByID")]
+        public dynamic Get_Info_ByID(string ma_tb)
+        {
+            return _new.Get_Info_ByID(ma_tb);
+        }
+
+        [HttpPut("Insert")]
+        public dynamic Insert([FromBody] NewModel newModel)
+        {
+            return _new.Insert(newModel);
         }
 
     }

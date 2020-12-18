@@ -52,3 +52,11 @@ D:\Projects\Thù lao Fiber\API_SERVER\Model\obj\Debug\netstandard2.0\Model.cspro
 D:\Projects\Thù lao Fiber\API_SERVER\Model\obj\Debug\netstandard2.0\Model.dll
 D:\Projects\Thù lao Fiber\API_SERVER\Model\obj\Debug\netstandard2.0\Model.pdb
 D:\Projects\Thù lao Fiber\API_SERVER\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Model\bin\Debug\netstandard2.0\Model.deps.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Model\bin\Debug\netstandard2.0\Model.dll
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Model\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Model\obj\Debug\netstandard2.0\Model.dll
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Model\obj\Debug\netstandard2.0\Model.pdb

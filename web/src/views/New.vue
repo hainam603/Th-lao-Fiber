@@ -98,6 +98,8 @@
                                 <v-text-field
                                 v-model="editedItem.ma_tb"
                                 label="ma_tb"
+                                append-icon="mdi-magnify" 
+                                @click:append="Get_Info_ByID(editedItem.ma_tb)"
                                 ></v-text-field>
                             </v-col>
                             <v-col
@@ -613,6 +615,48 @@ export default {
         //self.Get_List_New();
     },
     methods: {
+        Get_Info_ByID(ma_tb){
+            console.log(ma_tb);
+            var self=this;
+            self.loading=true;
+            self.text="Đang lấy dữ liệu của thuê bao";
+            self.snackbar=true;
+            New.Get_Info_ByID(ma_tb,self.token).then(response => {
+                if(response.data.success && response.data.data.length){
+                    response.data.data.forEach(element => {
+                        this.$set(this.editedItem, "tb_cd_dongquang", element.tb_cd_dongquang);
+                        this.$set(this.editedItem, "huy_truoc_30ngay", element.huy_truoc_30ngay);
+                        this.$set(this.editedItem, "khongthuoc_khuvuc_pttb", element.khongthuoc_khuvuc_pttb);
+                        this.$set(this.editedItem, "thang_hoamang", element.thang_hoamang);
+                        this.$set(this.editedItem, "ngay_hoamang", element.ngay_hoamang);
+                        this.$set(this.editedItem, "ngay_ins", element.ngay_ins);
+                        this.$set(this.editedItem, "trangthai", element.trangthai);
+                        this.$set(this.editedItem, "goi_tratruoc", element.goi_tratruoc);
+                        this.$set(this.editedItem, "tocdo_id", element.tocdo_id);
+                        this.$set(this.editedItem, "ma_NVKT_TT", element.ma_NVKT_TT);
+                        this.$set(this.editedItem, "hdtb_id", element.hdtb_id);
+                        this.$set(this.editedItem, "thuebao_id", element.thuebao_id);
+                        this.$set(this.editedItem, "kieuld_id", element.kieuld_id);
+                        this.$set(this.editedItem, "ma_gd", element.ma_gd);
+                        this.$set(this.editedItem, "phongbh", element.phongbh);
+                        this.$set(this.editedItem, "phongbh_id", element.phongbh_id);
+                        this.$set(this.editedItem, "ten_tb", element.ten_tb);
+                        this.$set(this.editedItem, "diachi_ld", element.diachi_ld);
+                        this.$set(this.editedItem, "ngay_tt", element.ngay_tt);
+                        this.$set(this.editedItem, "tb_dungthu", element.tb_dungthu);
+                        this.$set(this.editedItem, "ngay_tao", element.ngay_tao);
+                    });
+                    self.loading=false;
+                    self.text="Lấy dữ liệu hoàn tất";
+                    self.snackbar=true;
+                }
+                else { 
+                    self.loading=false;
+                    self.text="Thuê bao này không có trong dữ liệu, có thể thêm vào"
+                    self.snackbar=true;
+                }
+            });
+        },
         CreateNewClick(){
             this.$router.push('/createnew')
         },
@@ -685,8 +729,13 @@ export default {
           console.log(editedItem);
         } else {
             //insert
-          this.desserts.push(this.editedItem)
-          console.log(editedItem);
+        //   this.desserts.push(this.editedItem)
+        //   console.log(editedItem);
+        New.Insert(this.editedItem,this.token).then(
+                response=>{
+                    console.log(response);
+                }
+            ) 
         }
         this.close()
       },

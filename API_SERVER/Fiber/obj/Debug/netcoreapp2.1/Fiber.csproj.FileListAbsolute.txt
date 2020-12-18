@@ -61,3 +61,24 @@ D:\Projects\Thù lao Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.csproj
 D:\Projects\Thù lao Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.dll
 D:\Projects\Thù lao Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.pdb
 D:\Projects\Thù lao Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.genruntimeconfig.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.csprojAssemblyReference.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.AssemblyInfoInputs.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.AssemblyInfo.cs
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.csproj.CoreCompileInputs.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.RazorAssemblyInfo.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.RazorAssemblyInfo.cs
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.dll
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.pdb
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\bin\Debug\netcoreapp2.1\Fiber.deps.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\bin\Debug\netcoreapp2.1\Fiber.runtimeconfig.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\bin\Debug\netcoreapp2.1\Fiber.runtimeconfig.dev.json
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\bin\Debug\netcoreapp2.1\Fiber.dll
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\bin\Debug\netcoreapp2.1\Fiber.pdb
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.RazorTargetAssemblyInfo.cache
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.csproj.CopyComplete
+C:\Users\luohoang\Documents\Project\Th-lao-Fiber\API_SERVER\Fiber\obj\Debug\netcoreapp2.1\Fiber.genruntimeconfig.cache
